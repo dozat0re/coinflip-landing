@@ -19,6 +19,3 @@ A modern, responsive landing page for **CoinFlip** — the world’s leading Bit
 - Pure CSS (Helvetica font, custom animations)
 - SVG icons & charts
 - Modern UI: glassmorphism, gradients, subtle shadows
-
-npm install
-npm start
