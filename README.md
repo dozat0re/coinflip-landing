@@ -20,14 +20,5 @@ A modern, responsive landing page for **CoinFlip** — the world’s leading Bit
 - SVG icons & charts
 - Modern UI: glassmorphism, gradients, subtle shadows
 
-## 🚀 Demo
-
-👉 **[Live Demo on Vercel](https://your-vercel-url.vercel.app)** *(добавьте после деплоя)*
-
-## 📦 Run Locally
-
-```bash
-git clone https://github.com/YOUR-USERNAME/coinflip-landing.git
-cd coinflip-landing
 npm install
 npm start
